@@ -87,8 +87,6 @@ This project was developed as a demonstration of **CRUD operations** using the *
 
 ## Live Demo
 
-🔗 **[Live Site](https://your-live-site-link.com)**
-
 ## Contact
 
 For queries or collaborations, feel free to reach out via email or GitHub. 🚀
